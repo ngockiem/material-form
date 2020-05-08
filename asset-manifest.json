@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/material-form/static/css/main.d1b05096.chunk.css",
+    "main.js": "/material-form/static/js/main.60a0bc35.chunk.js",
+    "main.js.map": "/material-form/static/js/main.60a0bc35.chunk.js.map",
+    "runtime-main.js": "/material-form/static/js/runtime-main.2f1a0f13.js",
+    "runtime-main.js.map": "/material-form/static/js/runtime-main.2f1a0f13.js.map",
+    "static/css/2.55a44ceb.chunk.css": "/material-form/static/css/2.55a44ceb.chunk.css",
+    "static/js/2.b6ff528d.chunk.js": "/material-form/static/js/2.b6ff528d.chunk.js",
+    "static/js/2.b6ff528d.chunk.js.map": "/material-form/static/js/2.b6ff528d.chunk.js.map",
+    "index.html": "/material-form/index.html",
+    "precache-manifest.1a90f426aaac86cc62c996ead969f044.js": "/material-form/precache-manifest.1a90f426aaac86cc62c996ead969f044.js",
+    "service-worker.js": "/material-form/service-worker.js",
+    "static/css/2.55a44ceb.chunk.css.map": "/material-form/static/css/2.55a44ceb.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/material-form/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.b6ff528d.chunk.js.LICENSE.txt": "/material-form/static/js/2.b6ff528d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/material-form/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f1a0f13.js",
+    "static/css/2.55a44ceb.chunk.css",
+    "static/js/2.b6ff528d.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.60a0bc35.chunk.js"
+  ]
+}
